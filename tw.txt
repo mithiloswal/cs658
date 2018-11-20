@@ -1,0 +1,5 @@
+Hello
+My name is Mithil Oswal.
+I am pursuing my MS in Computer Science from Pace University.
+This is a sample text document for the word-counts tutorial in Homework-5 for CS-658 Intro to Analytics Computing.
+Thank you.
